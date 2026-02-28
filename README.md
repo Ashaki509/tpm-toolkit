@@ -1,7 +1,7 @@
 # 🗂️ TPM Toolkit — Ashaki Sorrell
 
-> **Staff Technical Program Manager (Director-Level)** · Fastly, Inc.  
-> [LinkedIn](https://linkedin.com/in/ashakisorrell) · [Email](mailto:ashaki509@gmail.com) 
+> **Staff Technical Program Manager (Director-Level)** · Fastly, Inc. · Allen Park, MI (Remote)  
+> [LinkedIn](https://linkedin.com/in/ashakisorrell) · [Email](mailto:ashaki509@gmail.com) · (313) 523-0902
 
 ---
 
@@ -145,4 +145,23 @@ End-to-end framework for managing technology vendors and platform partners — S
 |---|---|---|
 | Portfolio Management Professional (PfMP) | PMI | 2023 |
 | Program Management Professional (PgMP) | PMI | 2022 |
-| Project Management Pro
+| Project Management Professional (PMP) | PMI | 2017 |
+| Certified Scrum Master (CSM) | Scrum Alliance | 2017 |
+| Six Sigma Black Belt (CSSBB) | ISSI | 2022 |
+| AI Security Foundation (A/AISF) | AKYLADE | 2025 |
+| Certified in Cybersecurity (CC) | ISC2 | — |
+| Technical Product Management Certificate | Cornell University | — |
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in connecting with Engineering and Product leaders building at scale.
+
+- 📧 ashaki509@gmail.com
+- 📞 (313) 523-0902
+- 💼 [LinkedIn](https://linkedin.com/in/ashakisorrell)
+
+---
+
+*This toolkit is updated as new frameworks and templates are completed. Star or watch the repo to get notified.*
