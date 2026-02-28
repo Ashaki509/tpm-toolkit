@@ -16,6 +16,7 @@ Everything here has been applied in production environments. Not theory. Not tex
 | Repository | What It Solves | Status |
 |---|---|---|
 | [enterprise-platform-migrations](#-enterprise-platform-migrations) | End-to-end framework for large-scale platform migrations | ✅ Live |
+| [ai-tpm-playbook](#-ai-tpm-playbook) | AI governance, workflows, and adoption frameworks for enterprise teams | 🔜 Coming Soon |
 | [cloud-migration-runbooks](#-cloud-migration-runbooks) | Wave-by-wave runbooks for AWS/Azure migrations | 🔜 Coming Soon |
 | [engineering-okr-playbook](#-engineering-okr-playbook) | OKR models that drive delivery, not just reporting | 🔜 Coming Soon |
 | [platform-engineering-governance](#-platform-engineering-governance) | Operating model for TPMs embedded in platform eng teams | 🔜 Coming Soon |
