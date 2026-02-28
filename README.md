@@ -149,8 +149,8 @@ End-to-end framework for managing technology vendors and platform partners — S
 | Certified Scrum Master (CSM) | Scrum Alliance | 2017 |
 | Six Sigma Black Belt (CSSBB) | ISSI | 2022 |
 | AI Security Foundation (A/AISF) | AKYLADE | 2025 |
-| Certified in Cybersecurity (CC) | ISC2 | — |
-| Technical Product Management Certificate | Cornell University | — |
+| Certified in Cybersecurity (CC) | ISC2 |2023 |
+| Technical Product Management Certificate | Cornell University | 2025 |
 
 ---
 
