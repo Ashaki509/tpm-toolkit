@@ -1,6 +1,6 @@
 # 🗂️ TPM Toolkit — Ashaki Sorrell
 
-> **Staff Technical Program Manager (Director-Level)** · Fastly, Inc. · Allen Park, MI (Remote)  
+> **Staff Technical Program Manager (Director-Level)** · Fastly, Inc. · Metro Detroit 
 > [LinkedIn](https://linkedin.com/in/ashakisorrell) · [Email](mailto:ashaki509@gmail.com) · (313) 523-0902
 
 ---
