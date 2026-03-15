@@ -79,7 +79,7 @@ Most OKR implementations in engineering orgs become reporting theater. This play
 - Key Result templates that measure delivery, not activity
 - Quarterly planning cadence and review framework
 - Anti-patterns: what makes engineering OKRs fail
-- Alignment templates: team OKRs → org OKRs → company strategy
+- Alignment templates: company strategy → org OKRs → team OKRs  → individual OKRs
 
 ---
 
