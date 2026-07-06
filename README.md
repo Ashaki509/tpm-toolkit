@@ -1,29 +1,21 @@
 # TPM Toolkit
 
-A collection of practical tools, templates, and playbooks for Technical Program Managers.
+A comprehensive collection of templates, playbooks, and frameworks designed to **equip** Technical Program Managers with proven tools for successful program delivery.
 
-## Templates
+---
 
-Professional templates for key program management activities:
+## What’s Inside
 
-### [Benefits Register](templates/BenefitsRegisterTemplate.pdf)
-Track, measure, and report on program benefits with clear baselines, targets, and owners.
+- Benefits Register
+- Program Charter
+- Lessons Learned Log
+- Strategic Alignment Scorecard
+- And many more ready-to-use artifacts
 
-### [Strategic Alignment Scorecard](templates/StrategicAlignmentScorecard.pdf)
-Evaluate how well your program aligns with organizational strategic objectives.
+**[→ Browse All Templates](templates/)**
 
-### [Lessons Learned Log](templates/ProgramLessonsLearnedLogTemplate.pdf)
-Capture insights throughout the program for continuous improvement.
+---
 
-### [Program Charter](templates/ProgramCharterTemplate.pdf)
-Comprehensive template for defining program vision, scope, benefits, risks, and governance.
+**Built to equip TPMs** with the systems and practices needed to lead complex programs with clarity and confidence.
 
-## Usage
-
-Download the PDFs and customize them for your programs. These templates are designed to be practical and easy to use in enterprise environments.
-
-## More Resources
-
-- Check the `templates/` folder for all files.
-
-Contributions welcome!
+**Ashaki Sorrell** — Sr. Manager, Program Management
