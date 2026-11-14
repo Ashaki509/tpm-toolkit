@@ -18,4 +18,4 @@ A comprehensive collection of templates, playbooks, and frameworks designed to *
 
 **Built to equip TPMs** with the systems and practices needed to lead complex programs with clarity and confidence.
 
-**Ashaki Sorrell** — Sr. Manager, Program Management
+**Ashaki Sorrell** | Strategy & Operations Leader
