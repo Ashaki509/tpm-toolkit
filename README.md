@@ -10,7 +10,6 @@ A comprehensive collection of templates, playbooks, and frameworks designed to *
 - Program Charter
 - Lessons Learned Log
 - Strategic Alignment Scorecard
-- And many more ready-to-use artifacts
 
 **[→ Browse All Templates](templates/)**
 
